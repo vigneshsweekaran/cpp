@@ -5,7 +5,7 @@ using namespace std;
 int main() {
   cout << "Hello World!";
   cout << "I am vignesh";
-  count << "I play batminton"
-  cout << "I love to watch cricket"
+  cout << "I play batminton";
+  cout << "I love to watch cricket";
   return 0;
 }
